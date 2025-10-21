@@ -63,7 +63,7 @@ A: Yes, it provides industry-standard tools for professional workflows.
 ---
 
 ## 🔍 Tags  
-Capture One Pro, apture 1 pro, capture one fujifilm, captureone, photo editing, RAW processing, color grading, tethered capture, Mac photo editor, Windows photo editor, desktop photo software, professional photography, image management, capture one, capture pc, capture windows, capture desktop, capture for mac, capture for pc, capture for windows, capture mac 
+Capture One Pro, capture 1 pro, capture one fujifilm, captureone, photo editing, RAW processing, color grading, tethered capture, Mac photo editor, Windows photo editor, desktop photo software, professional photography, image management, capture one, capture pc, capture windows, capture desktop, capture for mac, capture for pc, capture for windows, capture mac 
 
 ---
 
